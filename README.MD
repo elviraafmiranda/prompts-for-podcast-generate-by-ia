@@ -40,13 +40,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspElvira Miranda<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/elviraafmiranda">
@@ -57,8 +51,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="www.linkedin.com/in/elviraafmiranda">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
-   
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
