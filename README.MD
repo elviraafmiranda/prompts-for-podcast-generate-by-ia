@@ -37,7 +37,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 🚀 Resultados
 [OUÇA AGORA.](https://www.youtube.com/playlist?list=PLtFRWK3uuEwF87-Hm_w2pjEB3mHveI2xP) 
 
-https://www.youtube.com/playlist?list=PLtFRWK3uuEwF87-Hm_w2pjEB3mHveI2xP
 
 ## 👨‍💻 Expert
 
