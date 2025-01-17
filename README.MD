@@ -1,5 +1,5 @@
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por I.A.s Vozes em Transe - Mulheres atravessando o preconceito e transformando o mundo 💪🎙
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -8,7 +8,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo AI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -33,6 +33,11 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
+
+## 🚀 Resultados
+[OUÇA AGORA.](https://www.youtube.com/playlist?list=PLtFRWK3uuEwF87-Hm_w2pjEB3mHveI2xP) 
+
+https://www.youtube.com/playlist?list=PLtFRWK3uuEwF87-Hm_w2pjEB3mHveI2xP
 
 ## 👨‍💻 Expert
 
