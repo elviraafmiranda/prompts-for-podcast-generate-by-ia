@@ -1,9 +1,6 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
@@ -57,5 +54,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <p>
 
 ---
-
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
